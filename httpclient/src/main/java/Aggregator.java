@@ -17,12 +17,12 @@ public class Aggregator {
         CompletableFuture<String> [] futures = new CompletableFuture[workersAddresses.size()];
 
         for(int i = 0; i < workersAddresses.size(); i++) {
-            String workerAddresses = workersAddresses.get(i);
+            String workerAddress = workersAddresses.get(i);
             String task = tasks.get(i);
 
             byte[] requestPayLoad = task.getBytes();
 
-            futures[i] = webClient.sendTask(workerAddresses, requestPayLoad);
+            futures[i] = webClient.sendTask(workerAddress, requestPayLoad);
         }
 
         List<String> results = Stream.of(futures).map(CompletableFuture::join).collect(Collectors.toList());

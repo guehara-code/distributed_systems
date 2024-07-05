@@ -30,7 +30,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>WebClient</mainClass>
+              <mainClass>Application</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
