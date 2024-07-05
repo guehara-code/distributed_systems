@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad209be4-1fc4-40a3-8cbe-9dc98e84442c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../httpclient/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../httpclient/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../httpclient/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../httpclient/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../httpclient/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../httpclient/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../httpclient/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../httpclient/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../httpclient/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../httpclient/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../httpclient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../httpclient/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
