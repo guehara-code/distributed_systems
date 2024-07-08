@@ -7,9 +7,6 @@
     <list default="true" id="ad209be4-1fc4-40a3-8cbe-9dc98e84442c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../httpclient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../httpclient/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../httpclient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../httpclient/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../httpclient/src/main/java/Aggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../httpclient/src/main/java/Aggregator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../httpclient/src/main/java/networking/WebClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../httpclient/src/main/java/networking/WebClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.WatchersDemo.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.WatchersDemo [clean].executor": "Run",
-    "Maven.WatchersDemo [install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/gilberto/Documents/distributed_systems/leader.election"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.WatchersDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.WatchersDemo [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.WatchersDemo [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/gilberto/Documents/distributed_systems/leader.election&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

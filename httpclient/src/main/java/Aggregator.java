@@ -23,6 +23,12 @@ public class Aggregator {
             byte[] requestPayLoad = task.getBytes();
 
             futures[i] = webClient.sendTask(workerAddress, requestPayLoad);
+
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
         }
 
         List<String> results = Stream.of(futures).map(CompletableFuture::join).collect(Collectors.toList());
